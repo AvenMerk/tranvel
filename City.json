@@ -1,0 +1,12 @@
+{
+  "cityId": 1,
+  "name": "aaa",
+  "description" : "full_description",
+  "sights": [
+    {
+      "sightId": 1,
+      "name": "aaa",
+      "description": "full_description"
+    }
+  ]
+}
